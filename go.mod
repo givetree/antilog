@@ -1,4 +1,4 @@
-module github.com/shamaazi/antilog
+module github.com/givetree/antilog
 
 go 1.13
 

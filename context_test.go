@@ -4,7 +4,6 @@ import (
 	"context"
 	"testing"
 
-	. "github.com/shamaazi/antilog"
 	"github.com/stretchr/testify/require"
 )
 

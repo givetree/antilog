@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shamaazi/antilog"
+	"github.com/givetree/antilog"
 )
 
 var (
